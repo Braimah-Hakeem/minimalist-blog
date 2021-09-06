@@ -99,6 +99,7 @@ nav ul {
     list-style: none;
     padding: 0;
     justify-content: center;
+    margin-left: 0;
 }
 
 nav li {
